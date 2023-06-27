@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\Users\blake\Documents\PYTHON_Scripting\Automate_the_Boring_Stuff\ch11__Debugging\errorExample.py", line 14, in <module>
+    raise Exception('This is the Error Message!!!')
+Exception: This is the Error Message!!!
